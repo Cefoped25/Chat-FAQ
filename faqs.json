@@ -1,0 +1,20 @@
+[
+  {
+    "pregunta": "no puedo iniciar sesión",
+    "aliases": ["usuario invalido", "no entra mi usuario", "no me deja entrar", "error al iniciar sesion"],
+    "respuesta": "Asegúrate de NO copiar espacios en blanco al pegar tu usuario y contraseña. Tip: pégalo primero en el Bloc de notas y luego a la plataforma.",
+    "video": "https://drive.google.com/tu_link_video_1"
+  },
+  {
+    "pregunta": "olvidé mi contraseña",
+    "aliases": ["recuperar contraseña", "restablecer contraseña", "no recuerdo password"],
+    "respuesta": "Usa la opción 'Olvidé mi contraseña' en la pantalla de login y revisa tu correo (incluye SPAM/promociones).",
+    "video": "https://drive.google.com/tu_link_video_2"
+  },
+  {
+    "pregunta": "no me llega el correo",
+    "aliases": ["no recibí correo", "no llega mail", "no me aparece el correo"],
+    "respuesta": "Verifica tu carpeta SPAM/promociones y que tu correo esté bien escrito. Si no llega en 5-10 min, vuelve a solicitarlo.",
+    "video": "https://drive.google.com/tu_link_video_3"
+  }
+]
