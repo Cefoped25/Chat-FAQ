@@ -33,3 +33,46 @@ h2 { margin: 0 0 12px 0; }
 }
 .sug-btn:hover { background: #f0f3f8; }
 a { text-decoration: none; }
+
+@media (max-width: 600px) {
+  body {
+    padding: 12px;
+  }
+
+  .chat-container {
+    width: 100%;
+    padding: 16px;
+    border-radius: 12px;
+    height: auto; /* se ajusta al contenido */
+  }
+
+  h2 {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  #chat-box {
+    height: 60vh; /* sigue ocupando buena parte de la pantalla */
+    font-size: 1rem;
+  }
+
+  .input-row {
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  /* 🔹 Input más grande */
+  .input-row input {
+    width: 100%;
+    font-size: 1.1rem;
+    padding: 16px;
+  }
+
+  /* 🔹 Botón más pequeño */
+  .input-row button {
+    width: 50%;         /* más chico que el input */
+    margin: 0 auto;     /* centrado */
+    font-size: 0.9rem;
+    padding: 8px 12px;
+  }
+}
