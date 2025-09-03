@@ -67,7 +67,7 @@ def buscar_respuesta(pregunta_usuario: str):
             idx = next(b["idx"] for b in buscables if b["key"] == m)
             sugerencias.append(faqs[idx]["pregunta"])
 
-        # Eliminar duplicados
+        # Eliminar duplicados de sugerencias
         sugerencias = list(dict.fromkeys(sugerencias))
         return faqs[idx_best], sugerencias
 
