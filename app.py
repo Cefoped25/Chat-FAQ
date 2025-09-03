@@ -20,8 +20,8 @@ def normaliza(txt: str) -> str:
 # Respuestas directas con sugerencias incluidas
 respuestas_directas = {
     "hola": {
-        "respuesta": "¡Hola! Soy tu asistente virtual, dime tu duda.",
-        "sugerencias": ["¿Cómo ingresar usuario?", "¿Cómo recuperar contraseña?"]
+        "respuesta": "¡Hola! Soy tu asistente virtual TECNO, dime tu duda.",
+        "sugerencias": ["¿Cómo ingresar usuario?", "¿Dónde encuentro mi usuario?"]
     },
     "ayuda": {
         "respuesta": "Claro, dime qué problema tienes (ej. 'no puedo iniciar sesión').",
@@ -29,7 +29,7 @@ respuestas_directas = {
     },
     "contraseña": {
         "respuesta": "Si tu contraseña no funciona, revisa que no copies espacios en blanco.",
-        "sugerencias": ["¿Olvidé mi contraseña?", "¿Cómo recuperar contraseña?"]
+        "sugerencias": ["¿Cómo ingresar usuario?", "¿Dónde encuentro mi usuario?"]
     },
     "usuario": {
         "respuesta": "Tu usuario fue enviado en el correo, revisa bandeja de entrada o spam.",

@@ -1,15 +1,15 @@
 [
   {
     "pregunta": "no puedo iniciar sesión",
-    "aliases": ["usuario invalido", "no entra mi usuario", "no me deja entrar", "error al iniciar sesion"],
-    "respuesta": "Asegúrate de NO copiar espacios en blanco al pegar tu usuario y contraseña. Tip: pégalo primero en el Bloc de notas y luego a la plataforma. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm",
+    "aliases": ["usuario invalido", "no entra mi usuario", "no me deja entrar", "error al iniciar sesion", "¿Cómo ingresar usuario?"],
+    "respuesta": "En el video se muestra como se les hace llegar su usuario y contraseña e ingresarlos al campus virtual. Asegúrate de NO copiar espacios en blanco al pegar tu usuario y contraseña. Tip: pégalo primero en el Bloc de notas y luego a la plataforma. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/1r057jKx17i6_Qno_WPUCI7idES-wMFqC/view?usp=sharing"
   },
   {
     "pregunta": "Mis datos de acceso son incorrectos",
-    "aliases": ["datos acceso", "incorrectos", "datos invalidos"],
-    "respuesta": "Asegúrate de NO copiar espacios en blanco al pegar tu usuario y contraseña. Tip: pégalo primero en el Bloc de notas y luego a la plataforma. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm",
+    "aliases": ["datos acceso", "incorrectos", "datos invalidos", "¿Dónde encuentro mi usuario?"],
+    "respuesta": "En el video se muestra como se les hace llegar su usuario y contraseña e ingresarlos al campus virtual. Asegúrate de NO copiar espacios en blanco al pegar tu usuario y contraseña. Tip: pégalo primero en el Bloc de notas y luego a la plataforma. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/1r057jKx17i6_Qno_WPUCI7idES-wMFqC/view?usp=sharing"
   },
@@ -103,15 +103,20 @@
     "respuesta": "Este video muestra el proceso que debe seguir, para visualizar todas sus calificaciones del curso. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/1HmiV6xfOlzSiU3EwTMZ3RfTEZ5qfVtE2/view?usp=drive_link"
-    
   },
   {
     "pregunta": "¿Cómo editar mi información en mi Perfil de Usuario?",
     "aliases": ["práctica", "subir Práctica", "Práctica plataforma"],
-    "respuesta": "Este video muestra paso a paso el proceso que debe seguir para modificar su nombre y/o su correo electrónico.. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Este video muestra paso a paso el proceso que debe seguir para modificar su nombre y/o su correo electrónico. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/1YUlUzQQXshMNKU3Kj4GYaG5bsM4m9YFL/view?usp=drive_link"
-    
+  },
+  {
+    "pregunta": "¿Cómo contestar la evaluación diagnóstica?",
+    "aliases": ["práctica", "subir Práctica", "Práctica plataforma"],
+    "respuesta": "Este video muestra paso a paso de como contestar una evaluación diagnóstica dentro de su curso. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "Correo":"soportecefoped@gmail.com",
+    "video": "https://drive.google.com/file/d/1YUlUzQQXshMNKU3Kj4GYaG5bsM4m9YFL/view?usp=drive_link"
   },
   {
     "pregunta":"",
