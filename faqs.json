@@ -83,6 +83,35 @@
     "aliases": ["problemas plataforma", "internet", "no carga", "descargar archivos"],
     "respuesta": "Contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
+  },  {
+    "pregunta": "¿Cómo subir una Actividad?",
+    "aliases": ["Actividad", "subir actividad", "Actividad plataforma"],
+    "respuesta": "Este video muestra paso a paso el proceso que debe seguir al momento de subir una tarea o actividad. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "Correo":"soportecefoped@gmail.com",
+    "video": "https://drive.google.com/file/d/146SwHw7WZgN_1FjUIKPM0IuKvm7_IlU0/view?usp=drive_link"
+  },
+  {
+    "pregunta": "¿Cómo subir un Foro?",
+    "aliases": ["Foro", "subir Foro", "foro plataforma"],
+    "respuesta": "Este video muestra paso a paso el proceso que debe seguir para contestar y retroalimentar un foro. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "Correo":"soportecefoped@gmail.com",
+    "video": "https://drive.google.com/file/d/1-46EnJ8rzr-hzls8_hXgMk6Va8hQdIlC/view?usp=drive_link"
+  },
+  {
+    "pregunta": "¿Cómo ver el libro de calificaciones?",
+    "aliases": ["práctica", "subir Práctica", "Práctica plataforma"],
+    "respuesta": "Este video muestra el proceso que debe seguir, para visualizar todas sus calificaciones del curso. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "Correo":"soportecefoped@gmail.com",
+    "video": "https://drive.google.com/file/d/1HmiV6xfOlzSiU3EwTMZ3RfTEZ5qfVtE2/view?usp=drive_link"
+    
+  },
+  {
+    "pregunta": "¿Cómo editar mi información en mi Perfil de Usuario?",
+    "aliases": ["práctica", "subir Práctica", "Práctica plataforma"],
+    "respuesta": "Este video muestra paso a paso el proceso que debe seguir para modificar su nombre y/o su correo electrónico.. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "Correo":"soportecefoped@gmail.com",
+    "video": "https://drive.google.com/file/d/1YUlUzQQXshMNKU3Kj4GYaG5bsM4m9YFL/view?usp=drive_link"
+    
   },
   {
     "pregunta":"",
