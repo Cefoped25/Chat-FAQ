@@ -72,10 +72,21 @@
     "respuesta": "Verifique la conexión de red, que este conectado a su red wifi y no a sus datos móviles, si le es posible, utilizar la plataforma desde un equipo de computo (PC/LAPTOP). Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
+    {
+    "pregunta": "Tengo algunas dudas",
+    "aliases": ["dudas", "preguntas", "no entiendo"],
+    "respuesta": "Se le proporcionarán algunas sugerencias de dudas comúnes:  . Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "Correo":"soportecefoped@gmail.com"
+  },
   {
-    "pregunta": "         ",
+    "pregunta": "El contenido del curso no corresponde",
+    "aliases": ["problemas plataforma", "internet", "no carga", "descargar archivos"],
+    "respuesta": "Contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "Correo":"soportecefoped@gmail.com"
+  },
+  {
     "aliases": ["Puto", "puto", "puta", "pendejo", "pendeja", "ojete","mierda","cagar","hijo de puta","chingar","chingadera","culero","cabrón","pito","verga","putito","mongolo","putita","mongolo","imbécil","bebé","precioso", "guapo", "idiota", "estúpido", "estupida", "perra","maricón","culo", "mamar", "mamada","malnacido", "jodido", "joder", "gonorrea"],
-    "respuesta": "Absternse de comentar palabras antisonantes en este chat, estoy para apoyarle. Evite ser contactado por su Asesor o autoridad correspondiente. Gracias.",
+    "respuesta": "Abstenerse de comentar palabras antisonantes en este chat, estoy para apoyarle. Evite ser contactado por su Asesor o autoridad correspondiente. Gracias.",
     "Correo":"soportecefoped@gmail.com"
   }
 ]
