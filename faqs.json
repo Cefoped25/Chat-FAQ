@@ -43,8 +43,8 @@
     "Correo":"soportecefoped@gmail.com"
   },
   {
-    "pregunta": "no sé quien es mi asesor",
-    "aliases": ["asesor", "desconozco", "quien es", "duda"],
+    "pregunta": "¿Cómo puedo contactar a mi asesor?",
+    "aliases": ["contactar asesor", "desconozco asesor", "quien es mi asesor", "duda de asesor", "como puedo contactar a mi asesor"],
     "respuesta": "En el apartado de 'Bienvenida del asesor', los asesores le proporcionarán sus datos para comunicarse con ellos(as), como lo puede ser un número telefónico o un correo. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
