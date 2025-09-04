@@ -2,21 +2,21 @@
   {
     "pregunta": "no puedo iniciar sesión",
     "aliases": ["usuario invalido", "no entra mi usuario", "no me deja entrar", "error al iniciar sesion", "¿Cómo ingresar usuario?"],
-    "respuesta": "En el video se muestra como se les hace llegar su usuario y contraseña e ingresarlos al campus virtual. Asegúrate de NO copiar espacios en blanco al pegar tu usuario y contraseña. Tip: pégalo primero en el Bloc de notas y luego a la plataforma. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm",
+    "respuesta": "En el video se muestra cómo se les hace llegar su usuario y contraseña e ingresarlos al campus virtual. Asegúrate de NO copiar espacios en blanco al pegar tu usuario y contraseña. Tip: pégalo primero en el Bloc de notas y luego a la plataforma. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/1r057jKx17i6_Qno_WPUCI7idES-wMFqC/view?usp=sharing"
   },
   {
     "pregunta": "Mis datos de acceso son incorrectos",
     "aliases": ["datos acceso", "incorrectos", "datos invalidos", "¿Dónde encuentro mi usuario?"],
-    "respuesta": "En el video se muestra como se les hace llegar su usuario y contraseña e ingresarlos al campus virtual. Asegúrate de NO copiar espacios en blanco al pegar tu usuario y contraseña. Tip: pégalo primero en el Bloc de notas y luego a la plataforma. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm",
+    "respuesta": "En el video se muestra cómo se les hace llegar su usuario y contraseña e ingresarlos al campus virtual. Asegúrate de NO copiar espacios en blanco al pegar tu usuario y contraseña. Tip: pégalo primero en el Bloc de notas y luego a la plataforma. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/1r057jKx17i6_Qno_WPUCI7idES-wMFqC/view?usp=sharing"
   },
   {
     "pregunta": "no me llega el correo de acceso",
     "aliases": ["no recibí correo", "no llega mail", "no me aparece el correo"],
-    "respuesta": "Verifica tu apartado SPAM/promociones dentro de tu correo, verifica que el correo que proporcionaste este escrito correctamente. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Verifica tu apartado SPAM/promociones dentro de tu correo, verifica que el correo que proporcionaste este escrito correctamente. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
   {
@@ -27,7 +27,7 @@
   {
     "pregunta": "no puedo ver los demás bloques del curso",
     "aliases": ["curso", "ver", "bloques", "materias"],
-    "respuesta": "Algunos bloques se encuentran bloqueados debido a que cuentan con fecha de inicio, terminación de actividades anteriores o en espera de calificación. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Algunos bloques se encuentran bloqueados debido a que cuentan con fecha de inicio, terminación de actividades anteriores o en espera de calificación. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
   {
@@ -39,43 +39,43 @@
   {
     "pregunta": "tengo actividades sin calificar y ya la entregue",
     "aliases": ["actividades sin calificar", "tarea sin calificar", "calificación", "entregue"],
-    "respuesta": "Los asesores le proporcionarán la calificación correspondiente en el transcurso de su curso. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Los asesores le proporcionarán la calificación correspondiente en el transcurso de su curso. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
   {
     "pregunta": "no sé quien es mi asesor",
     "aliases": ["asesor", "desconozco", "quien es", "duda"],
-    "respuesta": "En el apartado de 'Bienvenida del asesor', los asesores le proporcionarán sus datos para comunicarse con ellos(as), como lo puede ser un número telefónico o un correo. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "En el apartado de 'Bienvenida del asesor', los asesores le proporcionarán sus datos para comunicarse con ellos(as), como lo puede ser un número telefónico o un correo. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
   {
     "pregunta": "¿Dónde puedo ver la grabación de mi sesión virtual?",
     "aliases": ["sesión", "reunión virtual", "clase", "grabación"],
-    "respuesta": "Las sesiones/clases virtuales se suben un día despues de haberse impartido, dentro de la plataforma, en la sección de Grabaciones. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Las sesiones/clases virtuales se suben un día después de haberse impartido, dentro de la plataforma, en la sección de Grabaciones. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
   {
     "pregunta": "todavía puedo entregar mis actividades de las unidades pasadas",
     "aliases": ["actividades", "tarea", "atrasadas", "entregue"],
-    "respuesta": "No, las actividades, tareas y examenes tiene una fecha de cierre que se indicán/proporcionan en la sección de 'Cronograma de Actividades' en el apartado de 'Encuadre' dentro de su curso de plataforma. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "No, las actividades, tareas y exámenes tienen una fecha de cierre que se indican/proporcionan en la sección de 'Cronograma de Actividades' en el apartado de 'Encuadre' dentro de su curso de plataforma. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
   {
     "pregunta": "pueden darme prórroga para entregar después de la fecha de cierrre del curso",
     "aliases": ["actividades", "tarea", "prorroga", "prórroga"],
-    "respuesta": "No, las actividades, tareas y examenes tiene una fecha de cierre que se indicán/proporcionan en la sección de 'Cronograma de Actividades' en el apartado de 'Encuadre' dentro de su curso de plataforma, no se les puede proporcionar prórroga. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "No, las actividades, tareas y exámenes tienen una fecha de cierre que se indican/proporcionan en la sección de 'Cronograma de Actividades' en el apartado de 'Encuadre' dentro de su curso de plataforma, no se les puede proporcionar prórroga. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
   {
     "pregunta": "Tengo problemas con la plataforma, va lenta, no carga, no me permite subir o descargar archivos",
     "aliases": ["problemas plataforma", "internet", "no carga", "descargar archivos"],
-    "respuesta": "Verifique la conexión de red, que este conectado a su red wifi y no a sus datos móviles, si le es posible, utilizar la plataforma desde un equipo de computo (PC/LAPTOP). Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Verifique la conexión de red, que esté conectado a su red wifi y no a sus datos móviles, si le es posible, utilizar la plataforma desde un equipo de cómputo (PC/LAPTOP). Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
     {
     "pregunta": "Tengo algunas dudas",
     "aliases": ["dudas", "preguntas", "no entiendo"],
-    "respuesta": "Se le proporcionarán algunas sugerencias de dudas comúnes:  . Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Se le proporcionarán algunas sugerencias de dudas comunes:  . Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com"
   },
   {
@@ -86,35 +86,35 @@
   },  {
     "pregunta": "¿Cómo subir una Actividad?",
     "aliases": ["Actividad", "subir actividad", "Actividad plataforma"],
-    "respuesta": "Este video muestra paso a paso el proceso que debe seguir al momento de subir una tarea o actividad. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Este video muestra paso a paso el proceso que debe seguir al momento de subir una tarea o actividad. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/146SwHw7WZgN_1FjUIKPM0IuKvm7_IlU0/view?usp=drive_link"
   },
   {
     "pregunta": "¿Cómo subir un Foro?",
     "aliases": ["Foro", "subir Foro", "foro plataforma"],
-    "respuesta": "Este video muestra paso a paso el proceso que debe seguir para contestar y retroalimentar un foro. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Este video muestra paso a paso el proceso que debe seguir para contestar y retroalimentar un foro. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/1-46EnJ8rzr-hzls8_hXgMk6Va8hQdIlC/view?usp=drive_link"
   },
   {
     "pregunta": "¿Cómo ver el libro de calificaciones?",
     "aliases": ["práctica", "subir Práctica", "Práctica plataforma"],
-    "respuesta": "Este video muestra el proceso que debe seguir, para visualizar todas sus calificaciones del curso. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Este video muestra el proceso que debe seguir, para visualizar todas sus calificaciones del curso. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/1HmiV6xfOlzSiU3EwTMZ3RfTEZ5qfVtE2/view?usp=drive_link"
   },
   {
     "pregunta": "¿Cómo editar mi información en mi Perfil de Usuario?",
     "aliases": ["práctica", "subir Práctica", "Práctica plataforma"],
-    "respuesta": "Este video muestra paso a paso el proceso que debe seguir para modificar su nombre y/o su correo electrónico. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Este video muestra paso a paso el proceso que debe seguir para modificar su nombre y/o su correo electrónico. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/1YUlUzQQXshMNKU3Kj4GYaG5bsM4m9YFL/view?usp=drive_link"
   },
   {
     "pregunta": "¿Cómo contestar la evaluación diagnóstica?",
     "aliases": ["práctica", "subir Práctica", "Práctica plataforma"],
-    "respuesta": "Este video muestra paso a paso de como contestar una evaluación diagnóstica dentro de su curso. Si aun persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
+    "respuesta": "Este video muestra paso a paso de como contestar una evaluación diagnóstica dentro de su curso. Si aún persisten sus dudas, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm.",
     "Correo":"soportecefoped@gmail.com",
     "video": "https://drive.google.com/file/d/1VWE3wk6qWHNndeOpJd9rsFOYuAbJm73O/view?usp=sharing"
   },
