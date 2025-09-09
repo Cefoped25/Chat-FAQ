@@ -34,6 +34,10 @@ respuestas_directas = {
     "usuario": {
         "respuesta": "Tu usuario fue enviado en el correo, revisa bandeja de entrada o spam.",
         "sugerencias": ["¿Dónde encuentro mi usuario?", "¿Cómo ingresar usuario?"]
+    },
+    "gracias": {
+        "respuesta": "De nada, espero haber sido de gran utilidad para usted. Si sus dudas aun persisten, contactarse al correo: soportecefoped@gmail.com con un horario de 10:00 am a 5:00 pm",
+        "sugerencias": ["¿Dónde encuentro mi usuario?", "¿Cómo ingresar usuario?"]
     }
 }
 
